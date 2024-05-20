@@ -15,9 +15,9 @@
     "@emotion/styled": "^11.3.0",
     "framer-motion": "^4.1.17",
     "next": "^14.2.3",
-    "react": "^18.2.0",
+    "react": "^17.0.2", // Adjusted to a version compatible with Next.js 14.2.3
     "react-curved-arrow": "^0.1.0",
-    "react-dom": "^18.2.0",
+    "react-dom": "^17.0.2", // Adjusted to a version compatible with Next.js 14.2.3
     "react-icons": "^4.2.0"
   },
   "devDependencies": {
